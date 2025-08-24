@@ -36,7 +36,8 @@
         "yzhang.markdown-all-in-one",
         "streetsidesoftware.code-spell-checker",
         "budparr.language-hugo-vscode",
-        "akmittal.hugofy"
+        "akmittal.hugofy",
+        "github.vscode-github-actions"
       ],
       "settings": {
         "terminal.integrated.defaultProfile.linux": "fish"
