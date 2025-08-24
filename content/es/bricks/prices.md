@@ -17,7 +17,7 @@ Sesión de XX minutos de fisioterapia a domicilio.
 - Sesión a domicilio
 - XX minutos
 
-[Contratar](/tienda/)
+[Contratar]()
 
 ---
 ### Psicología
@@ -29,4 +29,4 @@ Sesión de XX minutos de psicología online.
 - Sesión online
 - XX minutos
 
-[Contratar](/tienda/)
+[Contratar]()
