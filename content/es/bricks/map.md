@@ -2,7 +2,6 @@
 title: map
 ---
 
-![](/pictures/pictures/map.png)
 
 [Google Maps](https://maps.app.goo.gl/zJkA9fPifF4uUyeq9)
 
