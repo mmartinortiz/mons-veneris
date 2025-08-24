@@ -1,4 +1,5 @@
-baseURL: https://www.gabinetemonsveneris.com
+# baseURL: https://www.gabinetemonsveneris.com
+baseURL: https://mmartinortiz.github.io/mons-veneris/
 theme: hugobricks
 defaultContentLanguage: es
 assetDir: static
