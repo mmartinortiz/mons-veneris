@@ -1,0 +1,89 @@
++++
+title = 'Política de privacidad'
++++
+
+{{< brick_wide >}}
+
+# Política de privacidad · Gabinete Mons Veneris
+
+**Ultima fecha de revisión: 12 octubre 2021**
+
+Creemos que tu privacidad es importante. Para el responsable de esta web, que leas y muestres interés en este apartado demuestra que tienes interés en la misma. Deberías hacerlo cada vez que visitas nuevos sitios web, especialmente si te van a solicitar datos personales. A continuación, en este documento, te explicamos qué datos personales recabamos, en base a qué, durante cuánto tiempo se almacenarán y aspectos relacionados con la normativa de protección de datos, en cumplimiento con la legislación vigente. Te animamos a leer detenidamente estos términos antes de facilitar tus datos personales. Para los menores de 14 años se requiere el consentimiento de los padres o tutores para el tratamiento de sus datos. Si eres menor de 14, no deberías dejar tus datos en eta web a menos que lo autoricen tus padres. En ningún caso se recabarán del menor de edad datos relativos a la situación profesional, económica o a la intimidad de los otros miembros de la familia, sin el consentimiento de éstos. Si tienes cualquier duda al respecto, por favor, contacta a través de las direcciones de correo electrónico del responsable del tratamiento o, en su caso, del delegado de protección de datos. Este responsable asume un compromiso permanente con la privacidad y garantiza las mejores prácticas en el tratamiento de tus datos personales.
+
+En cumplimiento con lo dispuesto en la normativa de protección de datos (Reglamento UE 2016/679, de 27 de abril de 2016), José Ignacio González Robles (en adelante, «El Titular»), Titular del sitio web http://www.gabinetemonsveneris.com (en adelante, el “Sitio Web”), establece la siguiente Política de Privacidad, que seguirá en el tratamiento de datos de carácter personal. Dicha política se entiende, en todo caso, sin perjuicio de los dispuesto en el correspondiente Aviso Legal y en la correspondiente Política de Cookies.
+
+## 1.- Responsable del Tratamiento
+
+**Responsable del Tratamiento:** José Ignacio González Robles
+**Dirección:** Joan Miró 2, 45600, Talavera de la Reina, Toledo
+**Email:** gabinetemonsveneris@gmail.com
+**Teléfono:** 925818383
+**Datos del Delegado de Protección de Datos:** info@legaltech.es
+
+Tratamos de garantizar la privacidad de los usuarios de esta web. Debes saber que nunca solicitaremos información personal a menos que realmente sea necesaria para la prestación de servicios, nunca la compartiremos con terceros (salvo determinados casos en los que resulte imprescindible y en base a situaciones legítimas e informadas previamente) y nunca utilizaremos tus datos para otros fines que no tengan que ver con la relación contractual. Esta entidad asume los compromisos de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales, el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo y la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSICE o LSSI), así como la normativa que las desarrolle o complemente.
+
+Por tanto, los datos que pudieran solicitarse a los usuarios del presente Sitio Web a través de formularios de contacto, aquellas otras proporcionadas por el mero hecho de acceder al Sitio Web (cookies), aquellos otros relacionados con los posibles comentarios en las distintas páginas corporativas de las redes sociales enlazadas desde el presente Sitio Web, los datos personales que el usuario introduzca dentro de las secciones habilitadas o las proporcionados por el resto de vías o canales de comunicación habilitados (por ejemplo, correo electrónico) serán tratados por el responsable del tratamiento indicado en cumplimiento siempre con la legislación vigente.
+
+## 2.- Finalidades del tratamiento
+
+Cuando un usuario visita este sitio web está facilitando información de carácter personal. Esa información puede incluir datos de carácter personal como pueden ser tu dirección IP, nombre, dirección física, dirección de correo electrónico, número de teléfono, y otra información. Las finalidades por las cuales tratamos tus datos dependerán del contexto o sección en la que se le soliciten:
+
+- Por el mero hecho de visitar el Sitio Web, existen determinadas informaciones que se recoge en los servidores que prestan servicios de hosting. Entre dichas informaciones está la relativa a la dirección IP desde la que se accede al Sitio Web. La finalidad del tratamiento en este caso es facilitarle la navegación por la web. También podremos recoger determinada información (cookies), que trataremos según la Política de Cookies específica que puede consultar.
+- Si nos proporciona los datos a través de alguno o algunos de los formularios habilitados, la finalidad será la relativa a la indicada en el formulario correspondiente. Por ejemplo, en el caso de proporcionarnos sus datos en formularios de contacto, la finalidad será responder en su caso a la consulta realizada. Por ejemplo, podemos utilizar estos datos para responder a tu solicitud y dar respuesta a las dudas, quejas, comentarios o inquietudes que puedas tener relativas a la información incluida en la web, los servicios que se prestan a través de la web, el tratamiento de sus datos personales, cuestiones referentes a los textos legales incluidos en la web, así como cualesquiera otras consultas que puedas tener. Ello implica, por ejemplo, que podamos mandarte un email o contactar de forma telefónica si nos has proporcionado esa información de forma voluntaria, tratando tus datos en relación a la resolución de tu duda, queja, etc. En cumplimiento con la Ley 34/2002, de Servicios de la Sociedad de la Información y Comercio Electrónico, El Titular no remitirá comunicaciones comerciales sin identificarlas como tales y sin una previa información al respecto. A estos efectos no será considerado como comunicación comercial toda la información que se envíe a los interesados siempre que tenga por finalidad el mantenimiento de la relación contractual o respuesta ante su solicitud o aquellas otras informaciones relacionadas con su solicitud -en su caso- y que se deriven directamente de esta relación.
+- Si nos proporciona datos personales a través de correo electrónico o a través de otros medios (tradicionales o no), en general trataremos sus datos en relación a la gestión o consulta realizada.
+- Si nos proporciona información a través de alguna o algunas de las redes sociales que esta entidad mantiene y que están enlazadas a través del presente Sitio Web, asumiendo esta entidad la figura de Responsable del Tratamiento de los datos aportados (por ejemplo, fotos subidas por nosotros o por terceros, comentarios que el interesado realice en relación a publicaciones que hagamos, etc), trataremos la información exclusivamente en relación a su consulta, gestión o comentario realizado, y siempre dentro de la red social y en el contexto de la misma, no procediéndose en ningún caso a la extracción de esos datos salvo que obtengamos consentimiento para ello por parte del interesado. No obstante, el uso de estas plataformas está sujeto a la aceptación íntegra de sus condiciones, y ello implica el tratamiento de sus datos con otras condiciones distintas a las aquí expuestas. Los perfiles oficiales en las redes sociales enlazadas desde este Sitio Web han sido creados para que conozca mejor nuestra actividad y crear un canal alternativo de comunicación con las personas interesadas por nuestra entidad y los servicios que ofrecemos, pero declinamos la responsabilidad del tratamiento de datos que las empresas que gestionan las mencionadas redes sociales hagan de los mismos.
+- Existen mas finalidades relacionadas con la gestión de cookies o con la información que recabamos de forma automática por el mero hecho de visitar este sitio web: para una correcta gestión a nivel técnico del sitio web, en relación a la gestión analítica del mismo, para la mejora de nuestros servicios, etc.
+
+## 3.- Periodo de conservación de sus datos
+
+Depende del tratamiento de datos realizado:
+
+- Los datos relacionados con las cookies existentes en este Sitio Web tienen un periodo de conservación indicado en la propia Política de Cookies.
+- Los datos que nos haga llegar a través de los medios que este Sitio Web pone a su disposición (formularios, correo electrónico) se conservarán mientras dure la relación con el interesado o el mismo nos retire su consentimiento en su caso. Posteriormente conservaremos los datos según exista o no obligación legal, siendo en cualquier caso el periodo mínimo exigido dependiendo de la relación o gestión que se realice. Por ejemplo, conservaremos los datos de facturación por obligación legal tributaria y contable durante 6 años. Existe también el plazo de 5 años que establece el art. 1964 del Código Civil (acciones personales sin plazo especial).
+- En relación a la gestión sanitaria (en caso de tratar sus datos de historial clínico), los datos los conservaremos mientras dure la prestación (con los requisitos de persistencia, trazabilidad de cambios, autenticidad, integridad y legibilidad establecidos en la legislación vigente), y posteriormente los mantendremos bloqueados durante un periodo de 5 años.
+- Los datos incluídos en las redes sociales enlazadas a través del presente Sitio Web se mantendrán por nuestra parte hasta que el interesado retire su consentimiento. Sin embargo, es posible que las entidades responsables conserven estos datos según otras politicas de tratamiento de la que no nos hacemos responsables en ningún caso.
+
+## 4.- Legitimación para el tratamiento de sus datos.
+
+Depende del tratamiento de datos realizado:
+
+- La existencia de una o varias obligaciones legales que nos obligan al tratamiento. Por ejemplo, la mencionada obligación tributaria en relación a las facturas emitidas.
+- Nos ha dado el consentimiento para tratar sus datos en los términos expuestos, marcando la casilla de aceptación correspondiente o firmando el documento expositivo que se le presente en un momento previo al tratamiento de su datos.
+- Existe una relación precontractual o contractual. Por ejemplo, en el caso de que el interesado nos proporcione sus datos en relación a una gestión encomendada, los trataremos porque entendemos que tenemos que dar cumplida respuesta a la misma.
+
+## 5.- Destinatario de sus datos.
+
+Siempre que subcontratemos a terceros para la prestación de nuestros servicios, tomaremos las precauciones legales adecuadas, así como las medidas técnicas y organizativas idóneas para garantizar la protección de datos personales de conformidad con la normativa legal pertinente.
+
+Además del Responsable del Tratamiento arriba expuesto, los datos podrán tratarse por otras entidades dependiendo de la naturaleza del tratamiento de datos:
+
+- Las entidades responsables de las redes sociales enlazadas desde el presente sitio web, en caso de que el interesado proporcione información a través de las mismas.
+- Determinadas empresas de servicios relacionados con el presente Sitio Web. Por ejemplo, la entidad que nos presta servicios de hosting
+- Por obligación legal, Organismos Públicos, Agencia Tributaria, Jueces y Tribunales y, en general, Autoridades competentes, cuando este responsable tenga la obligación legal de facilitarlos.
+- Determinadas empresas responsable de las cookies que se alojan en su equipo por el mero hecho de visitar el presente Sitio Web pueden tener información asociada a su dirección IP, hábitos de navegación, etc, según se describe en la correspondiente Política de Cookies.
+
+Este Responsable del Tratamiento sigue unos criterios estrictos de selección de proveedores de servicios con el fin de dar cumplimiento a sus obligaciones en materia de protección de datos y se compromete a suscribir con ellos el correspondiente contrato de tratamiento de datos mediante el que les impondrá obligaciones relacionadas con la imposición de medidas técnicas y organizativas apropiadas, tratar los datos personales para las finalidades pactadas y atendiendo únicamente a las instrucciones documentadas y suprimir o devolver los datos a este responsable una vez finalice la prestación de los servicios.
+
+## 6.- Sus Derechos.
+
+Cualquier persona tiene derecho a obtener confirmación sobre si en esta entidad estamos tratando datos personales que les conciernan o no. Las personas interesadas tienen derecho a acceder a sus datos personales, así como a solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, entre otros motivos, los datos ya no sean necesarios para los fines que fueron recogidos. En determinadas circunstancias, los interesados podrán solicitar la limitación del tratamiento de sus datos, en cuyo caso únicamente los conservaremos para el ejercicio o la defensa de reclamaciones. En otras circunstancias y por motivos relacionados con su situación particular, los interesados podrán oponerse al tratamiento de sus datos. En aquellos casos en los que nos haya dado el consentimiento, le informamos adicionalmente que tiene el derecho a retirar el mismo en cualquier momento, sin que ello afecte a la licitud del tratamiento basado en el consentimiento previo a su retirada. Si lo solicita, esta entidad dejará de tratar los datos, salvo por motivos legítimos imperiosos, o el ejercicio o la defensa de posibles reclamaciones. También puede requerirnos para que sus datos sean tratados por otra entidad, facilitando esta entidad la portabilidad de sus datos al nuevo responsable. Con tal fin, se han elaborado unos formularios específicos (que están a su disposición y que puede solicitar) para que pueda ejercitar sus derechos de acceso, rectificación, supresión, limitación al tratamiento, oposición al tratamiento, oposición a la toma de decisiones individuales automatizadas incluída la elaboración de perfiles y a la portabilidad de los datos. En todo caso, si considera que estos derechos no se han satisfecho convenientemente por nuestra parte, le informamos que puede presentar una reclamación ante la autoridad de control (Agencia Española de Protección de Datos, Jorge Juan 6, 28001, Madrid, o ante su sede electrónica https://sedeagpd.gob.es).
+
+Si lo prefiere, el interesado puede dirigirse por correo postal a la dirección que figura en el encabezamiento, o por correo electrónico en el email indicado, incluyendo fotocopia de su DNI/NIF o documento equivalente para justificar su identidad y solicitar el ejercicio de los derechos arriba mencionados.
+
+## 7.- Especial referencia a redes sociales
+
+El Titular mantiene varias páginas y/o perfiles en varias redes sociales, enlazadas a través del presente Sitio Web. El Titular no será responsable de lo publicado por terceros en las mencionadas redes sociales. El uso y tratamiento de datos que terceros hagan en las mencionadas redes sociales estará sometido a las condiciones generales o particulares distintas a la presente. El Titular recomienda su atenta lectura y concienciación al respecto.
+
+Nuestra presencia en Internet incluye presencia en la red social facebook.com y en Instagram, ambas redes operadas por Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, EE. UU.. Puede buscarnos en la mencionada red social y pulsar «me gusta» en la misma. Si ha iniciado sesión en Facebook, este podrá asignar la navegación a su cuenta de Facebook. Consulte la finalidad y el alcance de la recogida de datos y su procesamiento y uso por parte de Facebook, así como sus derechos al respecto y las posibilidades de configuración para proteger su privacidad en la declaración de privacidad de Facebook: http://www.facebook.com/policy.php. Por el mero hecho de usar esta red social y comunicarse con nosotros, autoriza que sus datos personales los utilicemos únicamente a través de la plataforma de la mencionada red social con finalidades de gestión de nuestra página profesional que mantenemos en este red social y de las comunicaciones que mantengamos de forma bidireccional con nuestros seguidores a través del chat, mensajes u otros medios de comunicación que permita Facebook ahora y en el futuro. Así pues, (1) trataremos sus datos dentro de esta red social para gestionar el listado de personas a las que les gusta nuestra página en facebook y (2) es posible que recibas información relacionada con eventos, actividades y promociones. Fuera de estos supuestos no utilizaremos tus datos.
+
+## 8.- Cookies y otros aspectos.
+
+Esta web incluye un certificado SSL. Se trata de un protocolo de seguridad que hace que tus datos viajen de manera íntegra y segura. En esta entidad hemos asumido las medidas de seguridad apropiadas después del correspondiente análisis de riesgos realizado. Entre dichas medidas de seguridad se incluye, en particular, la transmisión encriptada de datos entre su navegador y nuestro servidor.
+
+Como usuario, eres el único responsable de la veracidad y corrección de los datos que remitas en este sitio web. El Titular no aceptará ningún tipo de responsabilidad al respecto, asegurando la exactitud, vigencia y autenticidad de los datos personales facilitados.
+
+Este Responsable del Tratamiento se reserva el derecho de modificar y/o actualizar la información sobre protección de datos cuando sea necesario para el correcto cumplimiento del Reglamento de Protección de Datos. Si se produjera alguna modificación, el nuevo texto será publicado en esta página, donde podrá tener acceso a la política actual. En cada caso, la relación con los usuarios se regirá por las normas previstas en el momento preciso en que se accede al web. A todos los efectos, se puede comprobar la vigencia del documento en el encabezado.
+
+En relación a las cookies que se recaban en este sitio web le remitimos a nuestra Política de Cookies.
+
+{{< /brick_wide >}}

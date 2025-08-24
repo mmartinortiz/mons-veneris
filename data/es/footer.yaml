@@ -1,0 +1,14 @@
+logo_image:
+menuitems:
+  - title: Aviso legal
+    link:  /aviso-legal/
+  - title: Política de privacidad
+    link:  /politica-de-privacidad/
+  - title: Política de cookies
+    link:  /politica-de-cookies/
+socials:
+  # TODO: Fill in socials
+  # - title: Facebook
+  #   link: https://facebook.com
+  #   logo_image: /img/facebook.svg
+footer_text: Ayudando a nuestros clientes desde 2005

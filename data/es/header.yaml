@@ -1,0 +1,31 @@
+logo_image:
+logo_subtitle: Velamos por su salud
+dark_header: false
+mobile_view_width: 1100
+menuitems:
+  - title: Fisioterapia
+    link: /fisioterapia
+  - title: Logopedia
+    link: /logopedia/
+  - title: Podología
+    link: /podologia/
+  - title: Psicología
+    link: /psicologia/
+  - title: Servicios a domicilio
+    link: /servicios-a-domicilio/
+  - title: Aseguradoras
+    link: /aseguradoras/
+  - title: Legal
+    link: /legal/
+    items:
+      - title: Aviso Legal
+        link: /aviso-legal/
+      - title: Política de privacidad
+        link: /politica-de-privacidad/
+      - title: Política de Cookies
+        link: /politica-de-cookies/
+cta:
+  active: true
+  title: Contacto
+  link: /contacto/
+preheader: abiertos de Lun-Vie de 9:00 a 18:30

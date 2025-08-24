@@ -1,0 +1,31 @@
+action: /form.php
+placeholders: false
+fields:
+- name: title
+  input_type: html
+  label: <h3>Díganos que necesita de nosotros</h3>
+  required: true
+- name: name
+  input_type: text
+  label: Nombre
+  required: true
+- name: email
+  input_type: email
+  label: Correo electrónico
+  required: true
+- name: phone
+  input_type: phone
+  label: Teléfono
+  required: true
+- name: message
+  input_type: textarea
+  label: Mensaje
+  required: true
+- name: terms
+  input_type: checkbox
+  label: Acepto la <a href="https://www.gabinetemonsveneris.com/politica-de-privacidad">política de privacidad</a>
+  required: true
+- name: submit
+  input_type: submit
+  label: Enviar
+  required: true

@@ -1,0 +1,39 @@
+baseURL: https://www.gabinetemonsveneris.com
+theme: hugobricks
+defaultContentLanguage: es
+assetDir: static
+
+disableKinds:
+  - taxonomy
+  - term
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      extras:
+        insert:
+          enable: true
+        mark:
+          enable: true
+        subscript:
+          enable: true
+        superscript:
+          enable: true
+
+languages:
+  es:
+    languageName: Español
+    contentDir: content/es
+    weight: 1
+    disabled: false
+    permalinks:
+      page:
+        posts: /blog/:slug
+        services: /servicios/:slug
+        products: /tienda/:slug
+      section:
+        posts: /blog/
+        services: /servicios/
+        products: /tienda/
