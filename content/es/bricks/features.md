@@ -6,7 +6,7 @@ title: features
 En el Gabinete Mons Veneris contamos con profesionales para ayudarte en diferentes areas:
 
 ---
-![](img/icons/material-symbols/200/rounded/fisio.svg)
+![](/img/icons/material-symbols/200/rounded/fisio.svg)
 ### Fisioterapia
 
 Es una disciplina sanitaria que busca restaurar, mantener y mejorar el movimiento y la funcionalidad del cuerpo mediante técnicas manuales, ejercicios terapéuticos y agentes físicos (como frío, calor o electroterapia). Se enfoca en aliviar el dolor, recuperar lesiones y prevenir futuros problemas musculoesqueléticos.
