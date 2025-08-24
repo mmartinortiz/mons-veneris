@@ -3,6 +3,7 @@ baseURL: https://mmartinortiz.github.io/mons-veneris/
 theme: hugobricks
 defaultContentLanguage: es
 assetDir: static
+canonifyurls : true
 
 disableKinds:
   - taxonomy
