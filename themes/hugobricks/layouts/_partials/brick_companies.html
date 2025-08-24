@@ -1,0 +1,27 @@
+{{- $inner := page.RawContent -}}
+
+{{- if or (eq $inner "") (eq $inner nil) -}}
+{{- $inner = "Empty brick found. Consider creating a 'content/bricks/companies.md' file." -}}
+{{- with page.Site.GetPage "bricks/companies.md" -}}
+{{- $inner = .RawContent -}}
+{{- end -}}
+{{- end -}}
+<section class="features">
+    {{/*  <div class="container small">
+        {{- markdownify $inner -}}
+    </div>  */}}
+    <div class="container">
+        <ul class="grid features">
+            {{- range (index site.Data site.Language.Lang).companies -}}
+            <li>
+                <div class="box">
+                    <h3>{{.name}}</h3>
+                    <div class="image">
+                        <a href="{{ .website | safeURL }}"><img src="{{ .logo }}" alt="{{.name}}" target="_blank" /></a>
+                    </div>
+                </div>
+            </li>
+            {{- end -}}
+        </ul>
+    </div>
+</section>
