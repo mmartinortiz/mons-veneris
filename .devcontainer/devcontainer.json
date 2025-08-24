@@ -1,0 +1,46 @@
+{
+  "name": "Mons Veneris",
+  "image": "mcr.microsoft.com/devcontainers/base:bookworm",
+  "features": {
+    "ghcr.io/devcontainers-extra/features/starship:1": {},
+    "ghcr.io/meaningful-ooo/devcontainer-features/fish:2": {},
+    "ghcr.io/guiyomh/features/just:0": {},
+    "ghcr.io/devcontainers/features/hugo:1": {
+      "version": "0.148.2",
+      "extended": true
+    }
+  },
+  "initializeCommand": {
+    "create permanent fish history": "mkdir -p ~/.devcontainer/${devcontainerId} && touch ~/.devcontainer/${devcontainerId}/fish_history"
+  },
+  "onCreateCommand": {
+    "just completions": "just --completions fish > ~/.config/fish/completions/just.fish",
+    "starship eyecandy": ".devcontainer/starship-eyecandy.sh"
+  },
+  "mounts": [
+    {
+      "source": "${localEnv:HOME}/.devcontainer/${devcontainerId}/fish_history",
+      "target": "/home/vscode/.local/share/fish/fish_history",
+      "type": "bind"
+    },
+    {
+      "source": "/usr/bin/xdg-open",
+      "target": "/usr/bin/xdg-open",
+      "type": "bind"
+    }
+  ],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "tamasfe.even-better-toml",
+        "yzhang.markdown-all-in-one",
+        "streetsidesoftware.code-spell-checker",
+        "budparr.language-hugo-vscode",
+        "akmittal.hugofy"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "fish"
+      }
+    }
+  }
+}
